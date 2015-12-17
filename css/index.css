@@ -1,0 +1,46 @@
+.boxed {
+  border: 6px solid #780000 ;
+ height:34;
+}
+.adnan-pic {
+  height:34;
+  border:4px solid #780000;
+}
+.info {
+  height:100;
+  font:67 ;
+  border:4px solid #780000;
+}
+.hae-pic {
+  height:34;
+  border:4px solid #780000;
+}
+.img-circle {
+  height:360px;
+  width:360px;
+  border:4px solid #780000;
+}
+.social{
+  border:1px solid #780000 ;
+}
+.play{
+  border:1px solid #780000;
+}
+.subs{
+  border:1px solid #780000;
+}
+.download{
+  border:1px solid #780000;
+}
+.facebook{
+  border:1px solid #780000;
+}
+.twitter{
+  border:1px solid #780000;
+}
+.instagram{
+  border:1px solid #780000;
+}
+.email{
+  border:1px px solid #780000;
+}
